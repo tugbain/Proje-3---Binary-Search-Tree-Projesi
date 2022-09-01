@@ -20,3 +20,5 @@ Dizinin en başındaki eleman root olarak seçilir. Bu dizideki root 7'dir.
 9. Adım: 2 elemanı, 7'den küçük olduğu için sola ve sırasıyla takip ederek 3 elemanının soluna yerleştirilir.
 
 <img width="234" alt="Ekran görüntüsü 2022-09-01 034125" src="https://user-images.githubusercontent.com/111930812/187810568-8c574b8c-501f-4a07-b597-65cb9838e774.png">
+
+www.patika.dev
